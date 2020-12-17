@@ -1,0 +1,50 @@
+@charset "UTF-8";
+#tro_logo {
+  width: 300px;
+  margin: 0 auto 50px auto;
+  display: block;
+}
+#my_iarea {
+  background-color: white;
+}
+#favo_area {
+  border-top: 5px dashed rgb(195, 166, 153);
+  background-color: white;
+}
+#myidea {
+  background-color: rgb(230, 221, 218);
+  border-radius: 20px;
+  width: 45%;
+  margin: 0 0 20px 0;
+}
+#photo {
+  width: 90%;
+  height: 300px;
+  margin: 0 auto;
+  display: block;
+}
+
+.ct {
+  text-align: center;
+  padding: 10px 0 10px 0;
+}
+#myidea th {
+  border-top: 5px dashed white;
+  padding: 10px 0 10px 10px;
+}
+.idea-box {
+  width: 1000px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.left-c {
+  text-align: left;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  border-bottom: 5px dashed white;
+  white-space: pre-wrap;
+}
+#upd {
+  color: rgb(162, 127, 112);
+}

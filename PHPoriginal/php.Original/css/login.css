@@ -1,0 +1,53 @@
+@charset "UTF-8";
+#wrapper {
+  background-color:rgb(224, 242, 244);
+}
+#login-p {
+  text-align: center;
+  margin-top: 80px;
+  font-weight: bold;
+  color: rgb(162, 127, 112);
+  font-size: 17px;
+}
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+#white {
+  background-color: rgba(255, 255, 255, 50%);
+  width: 50%;
+  border-radius: 20px;
+  margin: 0 auto ;
+}
+#new-r {
+  width: 60%;
+  margin: 0 auto ;
+}
+
+form dt {
+  text-align: center;
+}
+dt.name {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  text-align: left;
+  width: 100%;
+}
+dt.pass {
+  margin-bottom: 50px;
+  text-align: left;
+  width: 100%;
+}
+#log-btn {
+  margin: 0 auto 30px auto;
+  display: block;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  color: black;
+  font-weight: bold;
+  padding-bottom: 20px;
+}

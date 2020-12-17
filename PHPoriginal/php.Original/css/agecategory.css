@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+#tro_logo {
+  width: 250px;
+  display: block;
+  margin: 0 auto 50px auto;
+}
+
+#photo {
+  width: 90%;
+  height: 500px;
+  margin: 0 auto;
+  display: block;
+}
+.ct {
+  text-align: center;
+  padding: 10px 0 10px 0;
+}
+
+#idea-0 {
+  background-color: rgb(253, 255, 213);
+  border-radius: 20px;
+  width: 80%;
+  margin: 0 0 20px 0;
+}
+#idea-1 {
+  background-color: rgb(255, 226, 213);
+  border-radius: 20px;
+  width: 80%;
+  margin: 0 0 20px 0;
+}
+#idea-2 {
+  background-color: rgb(228, 229, 245);
+  border-radius: 20px;
+  width: 80%;
+  margin: 0 0 20px 0;
+}
+
+#idea-0 th {
+  border-top: 5px dashed white;
+  padding: 10px 0 10px 10px;
+}
+#idea-1 th {
+  border-top: 5px dashed white;
+  padding: 10px 0 10px 10px;
+}
+#idea-2 th {
+  border-top: 5px dashed white;
+  padding: 10px 0 10px 10px;
+}
+
+.idea-box {
+  width: 1000px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.left-c {
+  text-align: left;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  white-space: pre-wrap;
+}

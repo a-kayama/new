@@ -1,0 +1,103 @@
+@charset "UTF-8";
+.top {
+  margin: 0 0 20px 10px;
+}
+#setumei {
+  text-align: center;
+  position: relative;
+  font-size: 14px;
+  width: 270px;
+  border-radius: 40px;
+  padding: 25px;
+  background-color: rgba(195, 231, 231, 40%);
+  color: black;
+}
+#setumei::after {
+  position: absolute;
+  content: '';
+  top:100%;
+  left:50px;
+  border: 15px solid transparent;
+  border-top: 30px solid rgba(195, 231, 231, 40%);
+}
+#zeropic {
+  width: 200px;
+  height: 230px;
+  cursor: pointer;
+}
+#onepic {
+  width: 200px;
+  height: 230px;
+  cursor: pointer;
+
+}
+#twopic {
+  width: 200px;
+  height: 230px;
+  cursor: pointer;
+}
+
+ul {
+  padding: 0;
+}
+
+#agepic2 {
+  width: 200px;
+  height: 50px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 100px;
+}
+
+#agepic3 {
+  margin-top: 30px;
+  width: 300px;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+  border-bottom: 5px dashed rgb(195, 166, 153);
+}
+
+#category {
+  width: 650px;
+  height: 400px;
+}
+#link {
+  width: 200px;
+  float: right;
+}
+p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(162, 127, 112);
+}
+
+#zero {
+  width: 650px;
+  margin: 0 auto;
+}
+
+#one {
+  width: 650px;
+  margin: 0 auto;
+}
+
+#two {
+  width: 650px;
+  margin: 0 auto;
+}
+
+#child-area1 {
+  border-top: 5px dashed rgb(195, 166, 153);
+}
+#child-area2 {
+  border-top: 5px dashed rgb(195, 166, 153);
+}
+
+.slider {
+  display:flex;
+}
