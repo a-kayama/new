@@ -14,6 +14,7 @@ PHP自作
 
 テストアカウント：
 メールアドレス→aaa@testmail.com
+
 パスワード→testpass33
 
 一般ユーザ：
@@ -21,11 +22,12 @@ PHP自作
 
 テストアカウント：
 メールアドレス→xxx@testmail.com
+
 パスワード→testpass11
 
 
 ## 環境
-XAMMP/MySQL/PHP
+XAMPP/MySQL/PHP
 
 
 ## データベース
